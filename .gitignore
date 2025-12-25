@@ -129,3 +129,6 @@ firebase_options.dart
 # API Keys and secrets
 **/secrets/
 api_keys.dart
+.vs 
+.wsuo
+.sqlite
